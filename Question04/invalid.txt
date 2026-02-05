@@ -1,0 +1,4 @@
+incorrect-address @email.com
+rightnot+something@email.com
+rightnot+something@email.com
+wrong@12,3somesite.org

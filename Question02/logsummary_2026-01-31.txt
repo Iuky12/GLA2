@@ -1,0 +1,5 @@
+Number of logs: 5
+Number of errors: 3
+Number of warnings: 1
+Number of infos: 1
+Most recent error: 2025-01-12 10:18:29 ERROR Segmentation fault
